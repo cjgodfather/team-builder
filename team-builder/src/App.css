@@ -1,0 +1,43 @@
+.App {
+  width: 100%;
+  text-align: center;
+}
+
+.form label {
+  margin: 2%;
+  font-size: 20px;
+}
+
+.form input {
+  margin-left: 5px;
+  border: 1px black solid;
+  width: 100px;
+  height: 20px;
+  border-radius: 2px;
+}
+
+.form button {
+  border: 1px black solid;
+  width: 80px;
+  height: 20px;
+  border-radius: 2px;
+  background-color: lightblue;
+}
+
+.cardContainer {
+  width: 50%;
+  height: 100;
+  border: 1px black solid;
+  margin: 5% 25%;
+  background-color: lightgrey;
+}
+
+.cardContainer .btn {
+  width: 60px;
+  height: 30px;
+  padding: 5px;
+  margin: 2%;
+  text-align: center;
+  background-color: lightblue;
+  border: 1px solid darkblue;
+}
